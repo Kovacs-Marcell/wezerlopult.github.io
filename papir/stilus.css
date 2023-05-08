@@ -1,0 +1,63 @@
+body{
+    background-color: #999999;
+}
+
+#cím{
+    margin: auto;
+    display: block;
+}
+
+div{
+    width: 670px;
+    margin: auto;
+    background-color: white;
+    
+    
+}
+
+#sor{
+    background-color:#999999 ;
+    width: 650px;
+    margin: auto;
+    
+}
+
+#h1{
+    
+    display: block;
+    background-color: #999999;
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+#szoveg{
+    margin: auto;
+    padding: 15px;
+}
+
+#cím{
+    float: left;
+    
+}
+
+#cai{
+
+}
+
+
+#kep{
+    float: left;
+    margin-top: 10px;
+}
+
+.betu{
+    float: left;
+    padding: 15px;
+}
+
+.a{
+    float: left;
+    padding: 10px;
+}
